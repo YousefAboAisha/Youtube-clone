@@ -1,5 +1,4 @@
 # Project description
-Cloned youtube design template using HTML, CSS, JS.
+Cloned youtube template design.
 
-# Youtube-clone
-Youtube colne, using pure ( HTML, CSS, JS )
+Using: HTML, CSS, JS.
